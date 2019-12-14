@@ -1,0 +1,13 @@
+system_TM4C1294_TW.pbi: \
+  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\src\system_TM4C1294_TW.c \
+  D:\arm\inc\c\stdint.h D:\arm\inc\c\ycheck.h D:\arm\inc\c\yvals.h \
+  D:\arm\inc\c\DLib_Defaults.h D:\\arm\\inc\\c\\DLib_Config_Normal.h \
+  D:\arm\inc\c\DLib_Product.h \
+  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\src/TM4C1294NCPDT.h \
+  D:\arm\CMSIS\Core\Include\core_cm4.h \
+  D:\arm\CMSIS\Core\Include/cmsis_version.h \
+  D:\arm\CMSIS\Core\Include/cmsis_compiler.h \
+  D:\arm\CMSIS\Core\Include\cmsis_iccarm.h D:\arm\inc\c\iccarm_builtin.h \
+  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\src/system_TM4C1294.h \
+  D:\arm\inc\c\stdbool.h \
+  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\src/driverlib/sysctl.h

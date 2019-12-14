@@ -1,0 +1,13 @@
+timer.pbi: \
+  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\src\timer.c \
+  D:\arm\inc\c\stdbool.h D:\arm\inc\c\stdint.h D:\arm\inc\c\ycheck.h \
+  D:\arm\inc\c\yvals.h D:\arm\inc\c\DLib_Defaults.h \
+  D:\\arm\\inc\\c\\DLib_Config_Normal.h D:\arm\inc\c\DLib_Product.h \
+  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\src/inc/hw_ints.h \
+  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\src/inc/hw_memmap.h \
+  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\src/inc/hw_timer.h \
+  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\src/inc/hw_types.h \
+  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\src/inc/hw_sysctl.h \
+  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\src/driverlib/debug.h \
+  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\src/driverlib/interrupt.h \
+  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\src/driverlib/timer.h

@@ -1,0 +1,15 @@
+"D:\arm\bin\armproc.dll" 
+
+"D:\arm\bin\armlmiftdi.dll" 
+
+"C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\Release\Exe\pwm.out" 
+
+--plugin="D:\arm\bin\armbat.dll" 
+
+--device_macro="D:\arm\config\debugger\TexasInstruments\TM4C129.dmac" 
+
+--flash_loader="D:\arm\config\flashloader\TexasInstruments\FlashTC4_NC.board" 
+
+
+
+

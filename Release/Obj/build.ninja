@@ -1,0 +1,35 @@
+#Generating source browse information for project pwm
+
+
+#Abbreviations
+cc = D$:\\common\bin\SourceIndexer.exe
+ll = D$:\\common\bin\PbdLink.exe
+bd = D$:\\common\bin\makeBrowseData.exe
+
+
+
+#Rules
+rule index
+  depfile = $out.dep
+  command = $cc -out=$out -f $in
+rule link
+  command = $ll -M $out $in
+rule browsedata
+  command = $bd $in -output  $out
+
+
+
+#Build steps
+build elevador.pbi : index elevador.xcl
+build RTX_Config.pbi : index RTX_Config.xcl
+build rtx_lib.pbi : index rtx_lib.xcl
+build system_TM4C1294_TW.pbi : index system_TM4C1294_TW.xcl
+build timer.pbi : index timer.xcl
+build uartstdio.pbi : index uartstdio.xcl
+build pwm_part0.pbi : link elevador.pbi RTX_Config.pbi
+build pwm_part1.pbi : link rtx_lib.pbi system_TM4C1294_TW.pbi
+build pwm_part2.pbi : link timer.pbi uartstdio.pbi
+build pwm.pbd : link pwm_part0.pbi pwm_part1.pbi pwm_part2.pbi
+build pwm.pbw : browsedata pwm.pbd
+
+
