@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "D:\\common\bin\cspybat" -f "C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\settings\pwm.Release.general.xcl" --backend -f "C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\settings\pwm.Release.driver.xcl" 
+& "D:\\common\bin\cspybat" -f "C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\settings\pwm.Release.general.xcl" --backend -f "C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\settings\pwm.Release.driver.xcl" 
 }
 else
 {
-& "D:\\common\bin\cspybat" -f "C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\settings\pwm.Release.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\settings\pwm.Release.driver.xcl" 
+& "D:\\common\bin\cspybat" -f "C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\settings\pwm.Release.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\settings\pwm.Release.driver.xcl" 
 }

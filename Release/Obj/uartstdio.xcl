@@ -1,28 +1,28 @@
-"C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\src\uartstdio.c"
+"C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\src\uartstdio.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -MD
 -MF
-C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\Release\Obj\uartstdio.pbi.dep
+C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\Release\Obj\uartstdio.pbi.dep
 -o
 uartstdio.pbi
 -I
-C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\src
+C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\src
 -I
-C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\..\COM RTOS\Tiva_RTOS2_IAR8\driverlib
+C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\..\COM RTOS\Tiva_RTOS2_IAR8\driverlib
 -I
-C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\..\Device\ARM\ARMCM4\Include
+C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\..\Device\ARM\ARMCM4\Include
 -I
-C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\..\CMSIS\RTOS2\Include
+C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\..\CMSIS\RTOS2\Include
 -I
-C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\..\CMSIS\RTOS2\RTX\Include
+C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\..\CMSIS\RTOS2\RTX\Include
 -I
-C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\..\CMSIS\RTOS2\RTX\Library\IAR\IDE
+C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\..\CMSIS\RTOS2\RTX\Library\IAR\IDE
 -I
-C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\CMSIS\RTOS2\Include
+C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\CMSIS\RTOS2\Include
 -I
-C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\CMSIS\RTOS2\RTX\Include
+C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\CMSIS\RTOS2\RTX\Include
 -I
 D:\arm\CMSIS\Core\Include
 -I
@@ -32,19 +32,19 @@ D:\arm\inc
 -I
 D:\arm\inc\c
 -I
-C:\Users\Doglas\Desktop\Teste-master\COM RTOS\Tiva_RTOS2_IAR8\driverlib
+C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\COM RTOS\Tiva_RTOS2_IAR8\driverlib
 -I
-C:\Users\Doglas\Desktop\Teste-master\Device\ARM\ARMCM4\Include
+C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Device\ARM\ARMCM4\Include
 -I
-C:\Users\Doglas\Desktop\Teste-master\CMSIS\RTOS2\Include
+C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\CMSIS\RTOS2\Include
 -I
-C:\Users\Doglas\Desktop\Teste-master\CMSIS\RTOS2\RTX\Include
+C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\CMSIS\RTOS2\RTX\Include
 -I
-C:\Users\Doglas\Desktop\Teste-master\CMSIS\RTOS2\RTX\Library\IAR\IDE
+C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\CMSIS\RTOS2\RTX\Library\IAR\IDE
 -I
-C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\CMSIS\RTOS2\Include
+C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\CMSIS\RTOS2\Include
 -I
-C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\CMSIS\RTOS2\RTX\Include
+C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\CMSIS\RTOS2\RTX\Include
 -I
 D:\arm\CMSIS\Core\Include
 -I

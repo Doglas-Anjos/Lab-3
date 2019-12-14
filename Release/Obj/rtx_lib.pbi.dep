@@ -1,15 +1,15 @@
 rtx_lib.pbi: \
-  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\src\rtx_lib.c \
+  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\src\rtx_lib.c \
   D:\arm\CMSIS\Core\Include\cmsis_compiler.h D:\arm\inc\c\stdint.h \
   D:\arm\inc\c\ycheck.h D:\arm\inc\c\yvals.h \
   D:\arm\inc\c\DLib_Defaults.h D:\\arm\\inc\\c\\DLib_Config_Normal.h \
   D:\arm\inc\c\DLib_Product.h D:\arm\CMSIS\Core\Include\cmsis_iccarm.h \
   D:\arm\inc\c\iccarm_builtin.h \
-  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\src/RTX_Config.h \
-  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\src/rtx_os.h \
+  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\src/RTX_Config.h \
+  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\src/rtx_os.h \
   D:\arm\inc\c\stddef.h D:\arm\inc\c\ysizet.h \
-  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\CMSIS\RTOS2\Include\cmsis_os2.h \
-  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\CMSIS\RTOS2\RTX\Include\rtx_evr.h \
-  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\src\RTX_Config.h \
-  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\CMSIS\RTOS2\RTX\Include/rtx_os.h \
-  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\src\RTE_Components.h
+  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\CMSIS\RTOS2\Include\cmsis_os2.h \
+  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\CMSIS\RTOS2\RTX\Include\rtx_evr.h \
+  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\src\RTX_Config.h \
+  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\CMSIS\RTOS2\RTX\Include/rtx_os.h \
+  C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\src\RTE_Components.h

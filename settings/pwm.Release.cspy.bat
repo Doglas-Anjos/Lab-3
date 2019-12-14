@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"D:\\common\bin\cspybat" -f "C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\settings\pwm.Release.general.xcl" --backend -f "C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\settings\pwm.Release.driver.xcl" 
+"D:\\common\bin\cspybat" -f "C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\settings\pwm.Release.general.xcl" --backend -f "C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\settings\pwm.Release.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"D:\\common\bin\cspybat" -f "C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\settings\pwm.Release.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab2\settings\pwm.Release.driver.xcl" 
+"D:\\common\bin\cspybat" -f "C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\settings\pwm.Release.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\Doglas\Desktop\Teste-master\victor_doglas_lab3\Lab-3\settings\pwm.Release.driver.xcl" 
 
 @echo off 
 :end
